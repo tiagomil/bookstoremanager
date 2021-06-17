@@ -10,6 +10,6 @@ public class BookController {
 
     @GetMapping
     public String hello(){
-        return "Hello book !!!!!!!!";
+        return "Hello book !";
     }
 }
